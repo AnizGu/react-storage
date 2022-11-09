@@ -1,7 +1,7 @@
 {
   "name": "@gulibs/react-storage",
   "private": false,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
   "files": [
     "dist"
@@ -27,6 +27,7 @@
     "url": "https://github.com/AnizGu/react-storage/issues"
   },
   "homepage": "https://github.com/AnizGu/react-storage#readme",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
