@@ -6,13 +6,13 @@
 ## 安装
 
 ```bash
-npm install --save react-storage
+npm install --save @gulibs/react-storage
 ```
 
 **or**
 
 ```bash
-yarn add react-storage
+yarn add @gulibs/react-storage
 ```
 ### 使用
 

@@ -1,1 +1,5 @@
-export * from "./storage";
+import ReactStorage from "./storage";
+
+export {
+    ReactStorage
+}
